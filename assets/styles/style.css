@@ -1,0 +1,7 @@
+.container h1,h2,h3 {
+	color: black;
+}
+#add-train-section {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
