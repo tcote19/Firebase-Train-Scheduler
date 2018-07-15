@@ -4,4 +4,4 @@
 <p>choo choo</p>
 
 <em>Check it out online</em>
-https://tcote19.github.io/Firebase-Train-Scheduler/
+<p target="_blank">https://tcote19.github.io/Firebase-Train-Scheduler/</p>
