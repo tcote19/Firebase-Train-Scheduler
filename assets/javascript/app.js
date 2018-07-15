@@ -1,12 +1,12 @@
 
 // Firebase config object
 var config = {
-    apiKey: "AIzaSyCtbDex0UVg_Y-qCz9qwrVv4BOsGhXQZuY",
-    authDomain: "train-scheduler-4c082.firebaseapp.com",
-    databaseURL: "https://train-scheduler-4c082.firebaseio.com",
-    projectId: "train-scheduler-4c082",
+    apiKey: config.apiKey,
+    authDomain: config.authDomain,
+    databaseURL: config.databaseURL,
+    projectId: config.projectId,
     storageBucket: "",
-    messagingSenderId: "292703910758"
+    messagingSenderId: config.messagingSenderId
   };
 firebase.initializeApp(config);
 
